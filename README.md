@@ -1,5 +1,5 @@
 # BlackJack-v.s.2.0
-# BlackJack-v.s.2.0 Black Jack game vs.2.0  built with pure 80% javascript,html,css easy to read and comprehend. 
+BlackJack-v.s.2.0  built with pure 80% javascript,html,css easy to read and comprehend. 
 # Javascript
  Bult with mainly pure JS
 # CSS
